@@ -1,12 +1,12 @@
 ---
 date: '3'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Resume-Profile'
+cover: './resumeCover.png'
+github: 'https://nuget.pkg.github.com/hraverkar/resume'
+external: 'https://hraverkar.netlify.com'
 tech:
-  - React
-  - Node.js
+  - HTML & CSS
+  - Awasome font
   - Express
   - Styled Components
 show: 'true'

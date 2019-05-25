@@ -16,4 +16,4 @@ skills:
 
 Hello! I'm Harsha Raverkar, a software engineer based in Bangalore India, who enjoys building things that live on the internet. I build and provide solution for GIS based Application.
 
-I had master degree form [Manipal University] (https://manipal.edu) Shortly, I joined Philips-BoP as intern and later I joined GeoOpsis Software Services as Software Develoepr.
+I had master degree form [Manipal University] (https://manipal.edu) I joined Philips-BoP as intern and later I joined GeoOpsis Software Services as Software Engineer.

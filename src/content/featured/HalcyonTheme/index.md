@@ -1,15 +1,14 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Wedding Website- Harshal & Shefali'
+cover: './WeddingCover.png'
+github: 'https://nuget.pkg.github.com/hraverkar/Wedding-harshal'
+external: 'https://harshalwedding.netlify.com'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+- HTML & CSS
+- Angular
+- Google Maps API
+- NodeJS
 show: 'true'
 ---
 
