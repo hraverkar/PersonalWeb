@@ -6,6 +6,8 @@ import {
   IconCodepen,
   IconInstagram,
   IconTwitter,
+  IconStackOverflow,
+  IconFacebook,
 } from '@components/icons';
 
 const FormattedIcon = ({ name }) => {
@@ -20,6 +22,10 @@ const FormattedIcon = ({ name }) => {
       return <IconInstagram />;
     case 'Twitter':
       return <IconTwitter />;
+    case 'StackOverflow' :
+      return <IconStackOverflow />
+    case 'Facebook' :
+      return <IconFacebook />
     default:
       return <IconGithub />;
   }

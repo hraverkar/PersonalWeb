@@ -1,38 +1,46 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Harshal Raverkar | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Harshal Raverkar is a software engineer based in Bangalore, India, who specializes in developing and provide soluiton for GIS based applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Harshal Raverkar, Harshal, Raverkar, hraverkar, software engineer, Gis Developer , web developer, javascript, Manipal.edu, Manipal, Luciad Developer, NodeJs',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
 
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
+  name: 'Harshal Raverkar',
+  location: 'Bangalore, India',
+  email: 'harshal.raverkar@gmail.com',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7/',
+      url: 'https://github.com/hraverkar/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7/',
+      url: 'https://www.linkedin.com/in/hraverkar/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7/',
+      url: 'https://codepen.io/hraverkar/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7/',
+      url: 'https://www.instagram.com/i.am_harshal/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/I_LoveBengaluru',
     },
+    {
+      name: 'StackOverflow',
+      url : 'https://stackoverflow.com/users/2635445/harshal',
+    },
+    {
+      name: 'Facebook',
+      url : 'https://Facebook.com/hraverkar',
+    }
   ],
 
   navLinks: [
@@ -54,7 +62,7 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@I_LoveBengaluru',
   googleAnalyticsID: 'UA-45666519-2',
 
   navHeight: 100,

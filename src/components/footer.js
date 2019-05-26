@@ -8,6 +8,9 @@ import {
   IconTwitter,
   IconStar,
   IconFork,
+  IconStackOverflow,
+  IconFacebook
+  
 } from '@components/icons';
 import { socialMedia } from '@config';
 import styled from 'styled-components';
@@ -89,7 +92,12 @@ const Footer = ({ githubInfo }) => (
                   <IconInstagram />
                 ) : name === 'Twitter' ? (
                   <IconTwitter />
-                ) : (
+                ) : name === 'StackOverflow' ?(
+                  <IconStackOverflow />
+                ) : name ==='Facebook' ?(
+                  <IconFacebook />
+                )
+                : (
                   <IconGithub />
                 )}
               </SocialLink>
@@ -103,7 +111,7 @@ const Footer = ({ githubInfo }) => (
         target="_blank"
         rel="nofollow noopener noreferrer">
         <div>Designed &amp; Built by Harshal Raverkar</div>
-        <div>Fork by Brittany Chiang</div>
+        <div>Fork from Brittany Chiang</div>
 
         {githubInfo.stars && githubInfo.forks && (
           <GithubInfo>
