@@ -63,7 +63,7 @@ module.exports = {
   ],
 
   twitterHandle: '@I_LoveBengaluru',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'UA-35130201-1',
 
   navHeight: 100,
 
