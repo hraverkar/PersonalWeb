@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
 
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: 'dqjOiPOwa9rOzNFF6Rl-PaBwjnMHTicsY5N6F1PbkKU', //google-site-verification=dqjOiPOwa9rOzNFF6Rl-PaBwjnMHTicsY5N6F1PbkKU
 
   name: 'Harshal Raverkar',
   location: 'Bangalore, India',
