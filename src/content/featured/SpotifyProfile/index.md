@@ -3,7 +3,7 @@ date: '3'
 title: 'Resume-Profile'
 cover: './resumeCover.png'
 github: 'https://nuget.pkg.github.com/hraverkar/resume'
-external: 'https://hraverkar.netlify.com'
+external: 'https://hraverkarresume.netlify.com'
 tech:
   - HTML & CSS
   - Awasome font
