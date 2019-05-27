@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Harshal Raverkar | Software Engineer',
   siteDescription:
-    'Harshal Raverkar is a software engineer based in Bangalore, India, who specializes in developing and provide soluiton for GIS based applications.',
+    'Harshal Raverkar is a software engineer based in Bangalore, India, who specializes in developing and provide solution for GIS based applications.',
   siteKeywords:
     'Harshal Raverkar, Harshal, Raverkar, hraverkar, software engineer, Gis Developer , web developer, javascript, Manipal.edu, Manipal, Luciad Developer, NodeJs',
   siteUrl: 'https://hraverkar.netlify.com',

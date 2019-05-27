@@ -1,8 +1,8 @@
 ---
 date: '2015-08-01'
 title: 'Project Trainee (Intern)'
-company: 'Phillips-BoP'
-location: 'Manipal, idnia'
+company: 'Philips-BoP'
+location: 'Manipal, India'
 range: 'Aug 2015 - Aug 2016'
 url: 'https://manipal.edu/'
 ---
