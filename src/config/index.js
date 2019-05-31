@@ -40,7 +40,14 @@ module.exports = {
     {
       name: 'Facebook',
       url : 'https://Facebook.com/hraverkar',
-    }
+    },
+    {
+      name: 'Resume',
+      url : 'https://hraverkarresume.netlify.com',
+    },
+
+
+    
   ],
 
   navLinks: [

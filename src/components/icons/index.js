@@ -13,6 +13,7 @@ import IconFork from './fork';
 import FormattedIcon from './formattedIcon';
 import IconStackOverflow from "./stackoverflow";
 import IconFacebook from './facebook';
+import IconResume from './resume';
 
 export {
   IconLoader,
@@ -29,5 +30,6 @@ export {
   IconFork,
   FormattedIcon,
   IconStackOverflow,
-  IconFacebook
+  IconFacebook,
+  IconResume
 };

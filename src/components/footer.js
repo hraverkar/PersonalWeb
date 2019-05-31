@@ -9,7 +9,8 @@ import {
   IconStar,
   IconFork,
   IconStackOverflow,
-  IconFacebook
+  IconFacebook,
+  IconResume
   
 } from '@components/icons';
 import { socialMedia } from '@config';
@@ -96,8 +97,9 @@ const Footer = ({ githubInfo }) => (
                   <IconStackOverflow />
                 ) : name ==='Facebook' ?(
                   <IconFacebook />
-                )
-                : (
+                ) : name ==='Resume' ?(
+                  <IconResume />
+                ) : (
                   <IconGithub />
                 )}
               </SocialLink>
