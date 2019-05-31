@@ -7,7 +7,7 @@ const IconLogo = () => (
     
       <polygon
         id="Shape"
-        stroke="#64FFDA"
+        stroke="#86C232"
         strokeWidth="5"
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -16,11 +16,11 @@ const IconLogo = () => (
       <g transform="translate(21.000000, 9.000000)">
       <path
         d="M4.39 59.70L4.39 9.28L10.16 9.28L10.16 30.73L25.84 30.73L25.84 9.28L31.61 9.28L31.61 59.70L25.84 59.70L25.84 36.21L10.16 36.21L10.16 59.70L4.39 59.70Z"
-        fill="#64FFDA"
+        fill="#86C232"
       />
     </g>
   </g>
-</svg>
+</svg> 
 );
 
 export default IconLogo;
