@@ -31,7 +31,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/I_LoveBengaluru',
+      url: 'https://twitter.com/hraverkar',
     },
     {
       name: 'StackOverflow',
@@ -40,11 +40,13 @@ module.exports = {
     {
       name: 'Facebook',
       url : 'https://Facebook.com/hraverkar',
-    },
+    }
+    
+    /*,
     {
       name: 'Resume',
       url : 'https://hraverkarresume.netlify.com',
-    },
+    },*/
 
 
     

@@ -31,5 +31,5 @@ export {
   FormattedIcon,
   IconStackOverflow,
   IconFacebook,
-  IconResume
+//  IconResume
 };

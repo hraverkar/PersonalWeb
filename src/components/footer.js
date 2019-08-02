@@ -9,8 +9,8 @@ import {
   IconStar,
   IconFork,
   IconStackOverflow,
-  IconFacebook,
-  IconResume
+  IconFacebook
+ // IconResume
   
 } from '@components/icons';
 import { socialMedia } from '@config';
