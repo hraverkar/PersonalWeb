@@ -1,16 +1,14 @@
 ---
-date: '2016-11-16'
-title: 'Weather Widget'
+date: '2019-09-26'
+title: 'Daily Coding Problem'
 image: ''
-github: 'https://github.com/bchiang7/DemoWebApp'
-external: 'http://quiet-dusk-89245.herokuapp.com/'
+github: 'https://github.com/hraverkar/Coding_Problem/tree/master/Daily_Coding_Problem'
+external: 'https://github.com/hraverkar/Coding_Problem/tree/master/Daily_Coding_Problem'
 tech:
-  - JS
-  - CSS
-  - Node.js
-  - Express
-  - Heroku
+  - Interview Question
+  - Algorithm
+  - Data Structure
 show: 'true'
 ---
 
-Simple weather app made with Node.js, Express, and Heroku. Utilized the OpenWeatherMap API and Google Maps API.
+Repo for interview quesion using C#.
